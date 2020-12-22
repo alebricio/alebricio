@@ -42,9 +42,12 @@ Hi! My name is Alejandra Bricio and I'm a software developer. I'm a collaborativ
 </span>
 
 ### Publications
+
+ <span>
     <a href="https://alebricio.medium.com">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
+    </span>
 
 ## Statistics :chart_with_upwards_trend:
 
