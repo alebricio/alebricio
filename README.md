@@ -1,6 +1,6 @@
 ## About me 👋
 
-Hi! My name is Alejandra Bricio and I'm a software developer. I'm a collaborative and innovative person always excited to start a new and interesting projects.
+Hi! My name is Alejandra Bricio and I'm a software developer. I'm a collaborative person always excited to start a new and interesting projects.
   
   <a href="https://www.linkedin.com/in/alejandrabricio/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
