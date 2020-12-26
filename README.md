@@ -48,6 +48,11 @@ Hi! My name is Alejandra Bricio and I'm a software developer. I'm a collaborativ
     </a>
     </span>
 
+### Currently Learning
+<span>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</span>
+
 ## Statistics :chart_with_upwards_trend:
 
 ![Alejandra github stats](https://github-readme-stats.vercel.app/api?username=alebricio)
