@@ -1,6 +1,6 @@
 ## About me 👋
 
-Hi! My name is Alejandra and I'm a software engineer from Mexico.👩🏻‍💻🇲🇽 
+Hi! My name is Alejandra Bricio and I'm a software engineer from Mexico.👩🏻‍💻🇲🇽 
 
 I enjoy contributing to exciting projects and learning new technologies. 
 
