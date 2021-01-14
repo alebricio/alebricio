@@ -1,6 +1,6 @@
 ## About me 👋
 
-Hi! My name is Alejandra Bricio and I'm a software engineer.
+Hi! My name is Alejandra Bricio and I'm a software engineer from Mexico. I enjoy contributing to exciting projects and learning new technologies.
   
   <a href="https://www.linkedin.com/in/alejandrabricio/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
