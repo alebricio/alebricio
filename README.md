@@ -21,8 +21,3 @@ If you'd like to reach me, you can do it on the social networks below:
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
     </span>
-
-## Statistics :chart_with_upwards_trend:
-
-![Alejandra github stats](https://github-readme-stats.vercel.app/api?username=alebricio)
-
